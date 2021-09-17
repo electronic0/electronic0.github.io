@@ -1,3 +1,4 @@
-# electronic0.github.io
+## Hello! My name is electronic
 
-Testing github pages
+- Currently studying
+- Learning HTML, CSS & Javascript
